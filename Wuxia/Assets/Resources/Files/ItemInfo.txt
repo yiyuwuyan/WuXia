@@ -1,0 +1,43 @@
+{
+	"info": [{
+			"id": 1,
+			"name": "匕首",
+			"icon": "1",
+			"prices": 10,
+			"type": 1,
+			"tips": "基础武器"
+		},
+		{
+			"id": 2,
+			"name": "布甲",
+			"icon": "2",
+			"prices": 5,
+			"type": 2,
+			"tips": "基础护甲"
+		},
+		{
+			"id": 3,
+			"name": "红药水",
+			"icon": "3",
+			"prices": 1,
+			"type": 3,
+			"tips": "基础药水"
+		},
+		{
+			"id": 4,
+			"name": "蓝药水",
+			"icon": "4",
+			"prices": 1,
+			"type": 3,
+			"tips": "基础药水"
+		},
+		{
+			"id": 5,
+			"name": "宝石",
+			"icon": "5",
+			"prices": 100,
+			"type": 4,
+			"tips": "贵重物品"
+		}
+	]
+}
